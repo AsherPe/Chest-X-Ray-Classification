@@ -287,7 +287,7 @@ Possible future directions include:
 
 ---
 
-# Authors
+# Author
 
 - Asher Pe’er
 
