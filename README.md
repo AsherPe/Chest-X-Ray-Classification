@@ -255,17 +255,7 @@ Chest-X-Ray-Classification/
 │   ├── Chest_X_Ray_Classification.ipynb
 │   └── Test_Environment.ipynb
 │
-├── figures/
-│   ├── validation_accuracy.png
-│   ├── validation_loss.png
-│   └── test_accuracy_comparison.png
-│
-├── models/
-│   ├── cnn_model.keras
-│   ├── efficientnet_model.keras
-│   └── rnn_model.keras
-│
-├── requirements.txt
+├── Project_Report.txt
 ├── README.md
 ```
 
@@ -279,21 +269,8 @@ Chest-X-Ray-Classification/
 git clone https://github.com/AsherPe/Chest-X-Ray-Classification.git
 ```
 
-## 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## 3. Open Notebook
-
-Run:
-
-```bash
-Test_Environment.ipynb
-```
-
-in Google Colab or Jupyter Notebook.
+## 2. Upload Notbook to Google colab or Jupyter 
+run in Google Colab or Jupyter Notebook.
 
 ---
 
